@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 9,
+      "name": "thịt kho trung quốc",
+      "price": "22",
+      "status": true
+    },
+    {
+      "id": 11,
+      "name": "cơm rang thịt bò",
+      "price": "25",
+      "status": true
+    },
+    {
+      "id": 13,
+      "name": "bánh mì bò",
+      "price": "15",
+      "status": true
+    },
+    {
+      "id": 14,
+      "name": "áo gucci hồng cánh sen",
+      "price": "1000",
+      "status": true
+    }
+  ]
+}
